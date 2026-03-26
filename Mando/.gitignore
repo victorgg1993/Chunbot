@@ -1,0 +1,7 @@
+PCB/output/
+PCB/*.net
+PCB/*.lck
+PCB/Mando-backups
+PCB/fp-info-cache
+PCB/fp-lib-table
+PCB/Mando-backups

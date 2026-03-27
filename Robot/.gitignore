@@ -1,2 +1,8 @@
+PCB/output/
+PCB/*.net
+PCB/*.lck
+PCB/fp-info-cache
+PCB/fp-lib-table
+PCB/PCB_ChunBot-backups
 3D/*.stl
 3D/*.FCBak

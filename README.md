@@ -16,6 +16,14 @@
 - **PCB**: Diseños de la placa
 
 
+## Instalación de dispositivos:
+
+En Linux es necesario añadir los dispositivos en una whitelist en _/etc/udev/rules.d_. Se recomienda seguir la instalación oficial ya que las nuevas versiones de la IDE de Arduino lo gestionan de forma automática.
+
+Link: https://docs.arduino.cc/software/ide-v2/tutorials/getting-started/ide-v2-downloading-and-installing/
+
+---
+
 ## Instalación de las librerías:
 
 ![](_0resources/librerias.png)

@@ -6,6 +6,7 @@
 
 void setup()
 {
+  Serial.begin(9600);
   motores_init();
   luces_init();
   nrf_init();
